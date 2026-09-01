@@ -10,7 +10,7 @@ Pragmatic Technical Product Owner with entrepreneurial DNA and 10+ years of P&L 
 
 ## WORK EXPERIENCE
 
-### IT Analyst & Product Scope Lead — OmegaCode sp. z o.o.
+### IT Analyst — OmegaCode sp. z o.o.
 *09/2023 – Present (2026)*[cite: 2]
 
 - End-to-end product scope ownership: defined functional requirements, prioritized backlogs, and negotiated cost-value-time tradeoffs with client executives and dev teams[cite: 2].
