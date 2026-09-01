@@ -13,9 +13,9 @@ Pragmatic Technical Product Owner with entrepreneurial DNA and 10+ years of P&L 
 ### IT Analyst — OmegaCode sp. z o.o.
 *09/2023 – Present (2026)*[cite: 2]
 
-- End-to-end product scope ownership: defined functional requirements, prioritized backlogs, and negotiated cost-value-time tradeoffs with client executives and dev teams[cite: 2].
+- End-to-end product scope analysis: defined functional requirements, prioritized backlogs, and negotiated cost-value-time tradeoffs with client executives and dev teams[cite: 2].
 - Driven Product Discovery using Lovable AI interactive prototypes, validating UI/UX and logic assumptions with stakeholders *before* spending development budget[cite: 2].
-- Initiated company-wide AI strategy: conceptualized and deployed an automated living product documentation pipeline integrated with CI/CD[cite: 2].
+- Initiated company-wide AI strategy: conceptualized and documented an automated living product documentation pipeline integrated with CI/CD[cite: 2].
 - Selected as the sole analytical voice in the executive board panel tasked with organizational revenue optimization[cite: 2].
 - Evaluated AI/LLM feasibility, legal compliance, and infrastructure costs for new product capabilities[cite: 2].
 - Prevented architecture over-engineering in enterprise integrations (WSO2 ESB data bus connecting Pimcore, ERP, E-commerce) by enforcing native functionality over custom coding[cite: 2].
