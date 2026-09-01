@@ -65,7 +65,7 @@ Pragmatic Technical Product Owner with entrepreneurial DNA and 10+ years of P&L 
 
 ## KEY ACHIEVEMENTS
 
-- **Brand Built from Scratch:** Founded and scaled a nationally recognized e-commerce brand with complete P&L responsibility[cite: 2].
+- **Brand Built from Scratch:** Founded and scaled a recognized e-commerce brand with complete P&L responsibility[cite: 2].
 - **Company Strategic AI Initiative:** Designed and deployed automated living documentation (Docs-as-Code) via CI/CD pipelines[cite: 2].
 - **Scale & Complexity:** Managed functional scope for ecosystems handling 100k+ SKUs and 20+ integrated systems[cite: 2].
 - **Zero Post-UAT Logic Errors:** Maintained high-quality standards on complex multi-system workflows[cite: 2].
